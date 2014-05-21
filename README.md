@@ -7,10 +7,10 @@ Turnover is costly to any organization, unexpected turnover especially so. By ex
 ###Data Sources
 The data used will include:
 
-*Basic demographic information (age, gender, marital status, number of dependents, location, level of education, etc.)
-*Position information (Years of Education, Years of Experience typical for position, Job Title Modifiers (e.g. Senior, Principal, etc.) Management Level)
-*Compensation information (Total compensation relative to industry/area, Raise frequency, etc.)
-*Performance Evaluation information (Scoring on most recent performance reviews, Length of time since last promotion)
+* Basic demographic information (age, gender, marital status, number of dependents, location, level of education, etc.)
+* Position information (Years of Education, Years of Experience typical for position, Job Title Modifiers (e.g. Senior, Principal, etc.) Management Level)
+* Compensation information (Total compensation relative to industry/area, Raise frequency, etc.)
+* Performance Evaluation information (Scoring on most recent performance reviews, Length of time since last promotion)
 *Management information (Manager's most recent performance reviews, Turnover within the same or similar supervisory organizations, etc.)
 
 I will be extracting the data from Workday (a cloud-based HRIS and Financials system) for a fictional company created for sales and training purposes, creating custom reports with the Workday report builder and publishing them as REST resources. The only external datasource I anticipate needing will be for industry salary data, which I'm investigating. Ideally this will come from a source like Salary.com, but BLS data is available if budget becomes a concern.
