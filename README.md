@@ -6,6 +6,7 @@ Turnover is costly to any organization, unexpected turnover especially so. By ex
 
 ###Data Sources
 The data used will include:
+
 *Basic demographic information (age, gender, marital status, number of dependents, location, level of education, etc.)
 *Position information (Years of Education, Years of Experience typical for position, Job Title Modifiers (e.g. Senior, Principal, etc.) Management Level)
 *Compensation information (Total compensation relative to industry/area, Raise frequency, etc.)
